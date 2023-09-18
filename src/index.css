@@ -1,0 +1,23 @@
+@import url("https://fonts.cdnfonts.com/css/space-grotesk");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Golf;
+  src: url(./assets/fonts/GulfsDisplay-Normal.woff2);
+}
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+
+  #hero,
+  #about,
+  #mics,
+  #footer {
+    background: url(./assets/bg.svg) center;
+  }
+}
