@@ -7,7 +7,10 @@ function Footer() {
       <div className="container flex flex-col justify-center items-center gap-5">
         <img src={footerLogo} alt="" />
         <div className="flex items-center flex-wrap gap-8 justify-center lg:justify-start lg:flex-nowrap">
-          <a className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex">
+          <a
+            href="https://t.me/SMURFhamster"
+            className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex"
+          >
             <div className="text-white flex justify-center items-center gap-4 text-base font-normal font-golf leading-snug tracking-tight">
               <svg
                 width="19"
@@ -24,7 +27,10 @@ function Footer() {
               Telegram
             </div>
           </a>
-          <a className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex">
+          <a
+            href="https://twitter.com/SMURFhamster"
+            className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex"
+          >
             <div className="text-white flex justify-center items-center gap-4 text-base font-normal font-golf leading-snug tracking-tight">
               <svg
                 width="24"

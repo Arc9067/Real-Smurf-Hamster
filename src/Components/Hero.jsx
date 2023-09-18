@@ -15,20 +15,26 @@ function Hero() {
             WHAT THE F@$# IS A SMURF HAMSTER?!{" "}
           </h1>
           <p className=" text-white text-base font-normal font-spaceGrotesk leading-loose tracking-tight">
-            It’s real… HE IS REAL! The realest Smurf Hamster to ever exist. This
-            blue creature was born hundreds of years ago and made its way onto
-            the ethereum blockchain.
+            This profound creature was amongst a rare phenomenon that happened
+            hundreds of years ago when a blue Smurf got curious with a large
+            hamster creating the first Real Smurf Hamster.
           </p>
 
-          <div className="flex items-center flex-wrap gap-8 justify-center lg:justify-start lg:flex-nowrap">
-            <a className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex">
+          <div className="flex items-center flex-wrap gap-8 justify-start lg:justify-start lg:flex-nowrap">
+            <a
+              href="https://t.me/SMURFhamster"
+              className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex"
+            >
               <div className="text-white text-base font-normal font-golf leading-snug tracking-tight">
-                Join Telegram
+                Telegram
               </div>
             </a>
-            <a className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex">
+            <a
+              href="https://twitter.com/SMURFhamster"
+              className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex"
+            >
               <div className="text-white text-base font-normal font-golf leading-snug tracking-tight">
-                Join Telegram
+                Twitter
               </div>
             </a>
           </div>

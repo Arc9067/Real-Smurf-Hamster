@@ -8,7 +8,7 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="min-h-screen w-full relative font-spaceGrotesk bg-[#2D2D5E] text-white">
-      <Header />
+      {/* <Header /> */}
       <Hero />
       <About />
       <Mics />

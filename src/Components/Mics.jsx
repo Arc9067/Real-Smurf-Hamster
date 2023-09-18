@@ -21,7 +21,7 @@ function Mics() {
                     Buy and Sell{" "}
                   </div>
                   <div className="text-white text-3xl font-normal font-golf">
-                    10%
+                    1%
                   </div>
                 </div>
               </div>
@@ -29,21 +29,10 @@ function Mics() {
                 <div className="w-6 h-6 relative bg-amber-300 rounded-full" />
                 <div className="justify-center items-center gap-3 flex">
                   <div className="text-white text-2xl font-medium font-['Space Grotesk']">
-                    Buy and Sell{" "}
+                    Max Txn{" "}
                   </div>
                   <div className="text-white text-3xl font-normal font-golf">
-                    10%
-                  </div>
-                </div>
-              </div>
-              <div className="justify-start items-center gap-5 inline-flex">
-                <div className="w-6 h-6 relative bg-red-400 rounded-full" />
-                <div className="justify-center items-center gap-3 flex">
-                  <div className="text-white text-2xl font-medium font-['Space Grotesk']">
-                    Buy and Sell{" "}
-                  </div>
-                  <div className="text-white text-3xl font-normal font-golf">
-                    10%
+                    2%
                   </div>
                 </div>
               </div>

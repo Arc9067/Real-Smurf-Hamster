@@ -19,7 +19,10 @@ function About() {
           </p>
 
           <div className="flex items-center flex-wrap gap-8 justify-center lg:justify-start lg:flex-nowrap">
-            <a className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex">
+            <a
+              href="https://t.me/SMURFhamster"
+              className=" px-8 py-4 bg-gradient-to-r from-purple-500 to-rose-500 rounded-full justify-center items-center gap-2.5 inline-flex"
+            >
               <div className="text-white text-base font-normal font-golf leading-snug tracking-tight">
                 Join Telegram
               </div>
